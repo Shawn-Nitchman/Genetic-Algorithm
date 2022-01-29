@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Genetic_Algorithm", "Genetic_Algorithm\Genetic_Algorithm.vcxproj", "{05D6EDC6-6AAC-4071-8E7A-CF8ECF5A9AAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05D6EDC6-6AAC-4071-8E7A-CF8ECF5A9AAA}.Debug|x64.ActiveCfg = Debug|x64
+		{05D6EDC6-6AAC-4071-8E7A-CF8ECF5A9AAA}.Debug|x64.Build.0 = Debug|x64
+		{05D6EDC6-6AAC-4071-8E7A-CF8ECF5A9AAA}.Debug|x86.ActiveCfg = Debug|Win32
+		{05D6EDC6-6AAC-4071-8E7A-CF8ECF5A9AAA}.Debug|x86.Build.0 = Debug|Win32
+		{05D6EDC6-6AAC-4071-8E7A-CF8ECF5A9AAA}.Release|x64.ActiveCfg = Release|x64
+		{05D6EDC6-6AAC-4071-8E7A-CF8ECF5A9AAA}.Release|x64.Build.0 = Release|x64
+		{05D6EDC6-6AAC-4071-8E7A-CF8ECF5A9AAA}.Release|x86.ActiveCfg = Release|Win32
+		{05D6EDC6-6AAC-4071-8E7A-CF8ECF5A9AAA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {206D029D-A4B9-4B96-A02F-E314196AE57B}
+	EndGlobalSection
+EndGlobal

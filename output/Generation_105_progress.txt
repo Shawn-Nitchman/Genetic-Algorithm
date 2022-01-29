@@ -1,0 +1,317 @@
+generation: 0
+fitness score: 294.6
+
+generation: 1
+fitness score: 315.1
+
+generation: 2
+fitness score: 326
+
+generation: 3
+fitness score: 329.5
+
+generation: 4
+fitness score: 325
+
+generation: 5
+fitness score: 330.7
+
+generation: 6
+fitness score: 331.1
+
+generation: 7
+fitness score: 322.3
+
+generation: 8
+fitness score: 332.1
+
+generation: 9
+fitness score: 334.9
+
+generation: 10
+fitness score: 342.7
+
+generation: 11
+fitness score: 342.7
+
+generation: 12
+fitness score: 341.7
+
+generation: 13
+fitness score: 343
+
+generation: 14
+fitness score: 356.8
+
+generation: 15
+fitness score: 358.3
+
+generation: 16
+fitness score: 370.8
+
+generation: 17
+fitness score: 367.3
+
+generation: 18
+fitness score: 392
+
+generation: 19
+fitness score: 390
+
+generation: 20
+fitness score: 393.5
+
+generation: 21
+fitness score: 394.2
+
+generation: 22
+fitness score: 391.3
+
+generation: 23
+fitness score: 392.1
+
+generation: 24
+fitness score: 392.4
+
+generation: 25
+fitness score: 414.7
+
+generation: 26
+fitness score: 419.3
+
+generation: 27
+fitness score: 425.3
+
+generation: 28
+fitness score: 414.5
+
+generation: 29
+fitness score: 419.2
+
+generation: 30
+fitness score: 426.5
+
+generation: 31
+fitness score: 449
+
+generation: 32
+fitness score: 443.3
+
+generation: 33
+fitness score: 449.2
+
+generation: 34
+fitness score: 443.3
+
+generation: 35
+fitness score: 443.3
+
+generation: 36
+fitness score: 439.3
+
+generation: 37
+fitness score: 439.3
+
+generation: 38
+fitness score: 445.1
+
+generation: 39
+fitness score: 445.1
+
+generation: 40
+fitness score: 458.1
+
+generation: 41
+fitness score: 459.9
+
+generation: 42
+fitness score: 451.3
+
+generation: 43
+fitness score: 454.6
+
+generation: 44
+fitness score: 461.2
+
+generation: 45
+fitness score: 468.6
+
+generation: 46
+fitness score: 469.9
+
+generation: 47
+fitness score: 489.4
+
+generation: 48
+fitness score: 492.2
+
+generation: 49
+fitness score: 492.2
+
+generation: 50
+fitness score: 481
+
+generation: 51
+fitness score: 481.3
+
+generation: 52
+fitness score: 485.8
+
+generation: 53
+fitness score: 491.5
+
+generation: 54
+fitness score: 486.2
+
+generation: 55
+fitness score: 485.9
+
+generation: 56
+fitness score: 488.4
+
+generation: 57
+fitness score: 486.2
+
+generation: 58
+fitness score: 492.8
+
+generation: 59
+fitness score: 498.6
+
+generation: 60
+fitness score: 498.6
+
+generation: 61
+fitness score: 507.1
+
+generation: 62
+fitness score: 497.4
+
+generation: 63
+fitness score: 498.3
+
+generation: 64
+fitness score: 514.9
+
+generation: 65
+fitness score: 513.6
+
+generation: 66
+fitness score: 505.2
+
+generation: 67
+fitness score: 503.3
+
+generation: 68
+fitness score: 507.7
+
+generation: 69
+fitness score: 503.3
+
+generation: 70
+fitness score: 514.5
+
+generation: 71
+fitness score: 508.8
+
+generation: 72
+fitness score: 515.2
+
+generation: 73
+fitness score: 522.7
+
+generation: 74
+fitness score: 516.8
+
+generation: 75
+fitness score: 522.4
+
+generation: 76
+fitness score: 519.8
+
+generation: 77
+fitness score: 515.2
+
+generation: 78
+fitness score: 518.4
+
+generation: 79
+fitness score: 522
+
+generation: 80
+fitness score: 520.5
+
+generation: 81
+fitness score: 518.6
+
+generation: 82
+fitness score: 515.4
+
+generation: 83
+fitness score: 531.5
+
+generation: 84
+fitness score: 524.1
+
+generation: 85
+fitness score: 526.7
+
+generation: 86
+fitness score: 533.7
+
+generation: 87
+fitness score: 523.6
+
+generation: 88
+fitness score: 534.9
+
+generation: 89
+fitness score: 530.5
+
+generation: 90
+fitness score: 537.8
+
+generation: 91
+fitness score: 540.5
+
+generation: 92
+fitness score: 532.8
+
+generation: 93
+fitness score: 532.8
+
+generation: 94
+fitness score: 534.3
+
+generation: 95
+fitness score: 534.3
+
+generation: 96
+fitness score: 535.9
+
+generation: 97
+fitness score: 541.2
+
+generation: 98
+fitness score: 544.2
+
+generation: 99
+fitness score: 561.3
+
+generation: 100
+fitness score: 538.8
+
+generation: 101
+fitness score: 537.6
+
+generation: 102
+fitness score: 542.9
+
+generation: 103
+fitness score: 544.2
+
+generation: 104
+fitness score: 558.5
+
+generation: 105
+fitness score: 540.9

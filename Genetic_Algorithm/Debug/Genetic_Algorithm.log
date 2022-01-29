@@ -1,0 +1,19 @@
+﻿  Genetic_Algorithm.cpp
+C:\Users\shawn\source\repos\Genetic_Algorithm\Genetic_Algorithm\Genetic_Algorithm.cpp(43,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\shawn\source\repos\Genetic_Algorithm\Genetic_Algorithm\Genetic_Algorithm.cpp(105,53): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\shawn\source\repos\Genetic_Algorithm\Genetic_Algorithm\Genetic_Algorithm.cpp(111,61): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\shawn\source\repos\Genetic_Algorithm\Genetic_Algorithm\Genetic_Algorithm.cpp(132,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\shawn\source\repos\Genetic_Algorithm\Genetic_Algorithm\Genetic_Algorithm.cpp(184,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\shawn\source\repos\Genetic_Algorithm\Genetic_Algorithm\Genetic_Algorithm.cpp(195,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\shawn\source\repos\Genetic_Algorithm\Genetic_Algorithm\Genetic_Algorithm.cpp(196,27): warning C4018: '<': signed/unsigned mismatch
+  Member.cpp
+C:\Users\shawn\source\repos\Genetic_Algorithm\Genetic_Algorithm\Member.cpp(11,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\shawn\source\repos\Genetic_Algorithm\Genetic_Algorithm\Member.cpp(42,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\shawn\source\repos\Genetic_Algorithm\Genetic_Algorithm\Member.cpp(40,40): warning C4101: 'y': unreferenced local variable
+C:\Users\shawn\source\repos\Genetic_Algorithm\Genetic_Algorithm\Member.cpp(40,37): warning C4101: 'x': unreferenced local variable
+C:\Users\shawn\source\repos\Genetic_Algorithm\Genetic_Algorithm\Member.cpp(71,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\shawn\source\repos\Genetic_Algorithm\Genetic_Algorithm\Member.cpp(69,40): warning C4101: 'y': unreferenced local variable
+C:\Users\shawn\source\repos\Genetic_Algorithm\Genetic_Algorithm\Member.cpp(69,37): warning C4101: 'x': unreferenced local variable
+C:\Users\shawn\source\repos\Genetic_Algorithm\Genetic_Algorithm\Member.cpp(89,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Genetic_Algorithm.vcxproj -> C:\Users\shawn\source\repos\Genetic_Algorithm\Debug\Genetic_Algorithm.exe
